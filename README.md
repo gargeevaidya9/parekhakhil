@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, ComputerVision**
 
-- 🤝 I’m looking for help with **Image processing expert**
+- 🤝 I’m looking for help with **Image processing**
 
 - 👨‍💻 All of my projects are available at [http://github.com/parekhakhil](http://github.com/parekhakhil)
 
